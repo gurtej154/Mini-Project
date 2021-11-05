@@ -1,0 +1,22 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Generates a profile from user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurtej154/Mini-Project.git"
+  },
+  "author": "Gurtej Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurtej154/Mini-Project/issues"
+  },
+  "homepage": "https://github.com/gurtej154/Mini-Project#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
